@@ -1,0 +1,10 @@
+{
+  "name": "carlo-rpc-simple",
+  "version": "0.0.0",
+  "description": "Simpler way of using Carlo's RPC API",
+  "main": "index.js",
+  "repository": "laggingreflex/carlo-rpc-simple",
+  "peerDependencies": {
+    "carlo": "^0.9.43"
+  }
+}
